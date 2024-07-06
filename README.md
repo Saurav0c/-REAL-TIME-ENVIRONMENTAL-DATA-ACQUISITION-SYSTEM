@@ -1,6 +1,8 @@
-This project involved designing a system using UART, SPI, I2C (including RTC), and other protocols to measure and display real-time temperature and light intensity values. Implemented on real microcontrollers (LPC2129 and 8051), the system provided hands-on experience in interfacing sensors, collecting data, and transmitting it to a PC via UART for real-time monitoring. The RTC was interfaced using I2C to keep accurate time. The embedded C code for the microcontrollers was developed using Keil uVision.
+
 <h1 align="center">Hi, I'm Saurav C</h1>
 <h3 align="center">A passionate Embedded Software Engineer,and this is my recent Project on creating Real-Time Data Acquisition System Using the Key Embedded Softwars</h3>
+
+This project involved designing a system using UART, SPI, I2C (including RTC), and other protocols to measure and display real-time temperature and light intensity values. Implemented on real microcontrollers (LPC2129 and 8051), the system provided hands-on experience in interfacing sensors, collecting data, and transmitting it to a PC via UART for real-time monitoring. The RTC was interfaced using I2C to keep accurate time. The embedded C code for the microcontrollers was developed using Keil uVision.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav0c&label=Profile%20views&color=0e75b6&style=flat" alt="saurav0c" /> </p>
 
