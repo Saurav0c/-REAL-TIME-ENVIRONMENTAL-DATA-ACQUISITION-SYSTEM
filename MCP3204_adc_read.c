@@ -1,4 +1,5 @@
-/*
+//MCP3204 EXTERNAL ADC 
+
 #include<lpc21xx.h>
 #include"header.h"
 #define CSO (1<<7)
@@ -16,4 +17,4 @@ unsigned char lbyte,hbyte;
  result=(hbyte<<8)|lbyte;
  return result;
 }
-  */
+  
